@@ -29,7 +29,12 @@ Here are some ideas to get you started:
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulbordoloi&count_private=true&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&layout=compact&hide=Jupyter%20Notebook)](https://github.com/rahulbordoloi/github-readme-stats) <br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&layout=compact&hide=Jupyter%20Notebook)](https://github.com/rahulbordoloi/github-readme-stats) <br>-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&hide=Jupyter%20Notebook)](https://github.com/rahulbordoloi/github-readme-stats) <br>
 [Note : Jupter Notebook Contributions are excluded from here]
 
 To know more about me, visit my [Portfolio](https://rahulbordoloi.me) <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&hide=Jupyter%20Notebook&layout=compact)](https://github.com/rahulbordoloi/github-readme-stats)
