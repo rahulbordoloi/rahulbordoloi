@@ -35,6 +35,3 @@ Here are some ideas to get you started:
 [Note : Jupter Notebook Contributions are excluded from here]
 
 To know more about me, visit my [Portfolio](https://rahulbordoloi.me) <br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&hide=Jupyter%20Notebook&layout=compact)](https://github.com/rahulbordoloi/github-readme-stats)
