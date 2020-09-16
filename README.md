@@ -13,6 +13,7 @@
 ## About Me :
 
 I'm a vivid Pythonista :snake: but C++ by :heart:. <br>
+Passionate about Converting Problem Statements into AI Automations. 
 Currently seeking opportunities in the field of Data Science and Software Development and also contribute to the Open Source Community. 
 <br>
 
