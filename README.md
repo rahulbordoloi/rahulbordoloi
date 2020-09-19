@@ -8,6 +8,12 @@
         <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drahulbordoloi&longCache=true">
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <!--<img src="https://img.shields.io/stackexchange/stackoverflow/r/13598602?style=flat-square">-->
+    <img src="https://img.shields.io/badge/Open%20Source-5-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Full%20Stack-4-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/NPM%20Packages-2-red?style=flat-square">
+    <img src="https://img.shields.io/badge/PyPi%20Packages-1-lightgrey?style=flat-square">
+    
 <p>
 
 ## About Me :
