@@ -1,6 +1,6 @@
 ## Hola! 👋 <br>
 
-![Ok](https://github.com/rahulbordoloi/rahulbordoloi/blob/master/About%20ME.png)
+![Ok](https://github.com/rahulbordoloi/rahulbordoloi/blob/rahul_sideways/About-Me.png)
 
 <p align="center">
     <a href="https://rahulbordoloi.me">
