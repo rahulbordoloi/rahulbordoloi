@@ -4,23 +4,23 @@
 
 <p align="center">
     <a href="https://rahulbordoloi.me">
-        <img src = "https://img.shields.io/static/v1?label=Profile+views&message=88&color=brightgreen">
+        <img src = "https://img.shields.io/static/v1?label=Profile+views&message=128&color=brightgreen">
         <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drahulbordoloi&longCache=true">
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <!--<img src="https://img.shields.io/stackexchange/stackoverflow/r/13598602?style=flat-square">-->
-    <img src="https://img.shields.io/badge/Open%20Source-6-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Open%20Source-8-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Full%20Stack-4-orange?style=flat-square">
     <img src="https://img.shields.io/badge/NPM%20Packages-2-red?style=flat-square">
-    <img src="https://img.shields.io/badge/PyPi%20Packages-2-lightgrey?style=flat-square">
+    <img src="https://img.shields.io/badge/PyPi%20Packages-4-lightgrey?style=flat-square">
     
 <p>
 
 ## About Me :
 
-I'm a vivid Pythonista :snake: but C++ by :heart:. <br>
+I'm a vivid Pythonista :snake: but C++ by :heart:. Linux Fanboy :penguin:. <br>
 Passionate about Converting Problem Statements into AI Automated Solutions. 
-Currently seeking opportunities in the field of Data Science and Software Development and also contribute to the Open Source Community. 
+Currently seeking opportunities in the field of Data Science and Software Development. Much passionate about contributing to the Open Source Community :octocat:.
 <br>
 
 <!--[Linkedin](https://linkedin.com/in/rahulbordoloi) <br>
