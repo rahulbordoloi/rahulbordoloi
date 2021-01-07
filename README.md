@@ -56,32 +56,36 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
+<img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=trueg" width="25px" height="25px"/>
+<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25px" height="25px"/>
+<img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="25px" height="25px"/>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keras.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" width="25px" height="25px"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25px" height="25px"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25px" height="25px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" width="25px" height="25px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" width="25px" height="25px"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="25px" height="25px"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="25px" height="25px"/>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="25px" height="25px"/>
 
-
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25px" height="25px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="25px" height="25px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" width="25px" height="25px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" width="25px" height="25px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" width="25px" height="25px"/>
 
