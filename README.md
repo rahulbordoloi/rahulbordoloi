@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25px" height="25px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="25px" height="25px"/> -->
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="25px" height="25px"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25px" height="25px"/>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="25px" height="25px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" width="25px" height="25px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" width="25px" height="25px"/> -->
 
 </p>
 
