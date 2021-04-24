@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://rahulbordoloi.me">
-        <img src = "https://img.shields.io/static/v1?label=Profile+views&message=128&color=brightgreen">
+        <img src = "https://img.shields.io/static/v1?label=Profile+views&message=158&color=brightgreen">
         <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drahulbordoloi&longCache=true">
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <!--<img src="https://img.shields.io/stackexchange/stackoverflow/r/13598602?style=flat-square">-->
     <img src="https://img.shields.io/badge/Open%20Source-8-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Full%20Stack-4-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Full%20Stack-5-orange?style=flat-square">
     <img src="https://img.shields.io/badge/NPM%20Packages-2-red?style=flat-square">
     <img src="https://img.shields.io/badge/PyPi%20Packages-4-lightgrey?style=flat-square">
     
@@ -18,7 +18,7 @@
 
 ## About Me :
 
-I'm a vivid Pythonista :snake: but C++ by :heart:. Linux Fanboy :penguin:. <br>
+I'm a vivid Pythonista :snake:, Java Professionally :coffee: but C++ by :heart:. Linux Fanboy :penguin:. <br>
 Passionate about Converting Problem Statements into AI Automated Solutions. 
 Currently seeking opportunities in the field of Data Science and Software Development. Much passionate about contributing to the Open Source Community :octocat:.
 <br>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <a align="center" href="https://rahulbordoloi.me">
 <p align="center">
-<img src="https://github-readme-stats.rahulbordoloi.vercel.app/api?username=rahulbordoloi&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook" alt="languages" height="165">
+<img src="https://github-readme-stats.rahulbordoloi.vercel.app/api?username=rahulbordoloi&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&langs_count=6&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
 </p>
 </a>
 
@@ -75,17 +75,17 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="25px" height="25px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25px" height="25px"/> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="25px" height="25px"/> -->
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="25px" height="25px"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25px" height="25px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25px" height="25px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="25px" height="25px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" width="25px" height="25px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" width="25px" height="25px"/>  -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" width="25px" height="25px"/>
 <!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" width="25px" height="25px"/> -->
 
