@@ -18,9 +18,9 @@
 
 ## About Me :
 
-I'm a vivid Pythonista :snake:, Java Professionally :coffee: but C++ by :heart:. Linux Fanboy :penguin:. <br>
-Passionate about Converting Problem Statements into AI Automated Solutions. 
-Currently seeking opportunities in the field of Data Science and Software Development. Much passionate about contributing to the Open Source Community :octocat:.
+I'm a Vivid Pythonista :snake:, but C++ by :heart:. Linux Fanboy :penguin:. <br>
+Passionate about Converting Problem Statements into Efficient and Automated Solutions. 
+Currently seeking opportunities in the Industry of Software Development and Data Science. Much passionate about contributing to the Open Source Community :octocat:.
 <br>
 
 <!--[Linkedin](https://linkedin.com/in/rahulbordoloi) <br>
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 </p>
 
-To know more about me, visit my [Portfolio](https://rahulbordoloi.me) <br>
+To know more About Me, visit my [Portfolio](https://rahulbordoloi.me). <br>
 
 <p align="center">
 
