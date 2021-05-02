@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <a align="center" href="https://rahulbordoloi.me">
 <p align="center">
-<img src="https://github-readme-stats.rahulbordoloi.vercel.app/api?username=rahulbordoloi&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&langs_count=6&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
+<img src="https://github-readme-stats.rahulbordoloi.vercel.app/api?username=rahulbordoloi&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
 </p>
 </a>
 
