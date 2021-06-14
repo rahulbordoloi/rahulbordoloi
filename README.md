@@ -20,7 +20,7 @@
 
 I'm a Vivid Pythonista :snake:, but C++ by :heart:. Linux Fanboy :penguin:. <br>
 Passionate about Converting Problem Statements into Efficient and Automated Solutions. 
-Currently seeking opportunities in the Industry of Software Development and Data Science. Much passionate about contributing to the Open Source Community :octocat:.
+Currently working as a Data Scientist (ASE-1) at HighRadius, Bhubaneswar. Much passionate about contributing to the Open Source Community :octocat:.
 <br>
 
 <!--[Linkedin](https://linkedin.com/in/rahulbordoloi) <br>
