@@ -20,7 +20,7 @@
 
 I'm a Vivid Pythonista :snake:, but C++ by :heart:. Linux Fanboy :penguin:. <br>
 Passionate about Converting Problem Statements into Efficient and Automated Solutions. 
-Currently working as a Data Scientist (ASE-1) at HighRadius, Bhubaneswar. Much passionate about contributing to the Open Source Community :octocat:.
+Currently working as a Software Engineer at HighRadius, Bhubaneswar. Much Passionate about Contributing to the Open Source Community :octocat:.
 <br>
 
 <!--[Linkedin](https://linkedin.com/in/rahulbordoloi) <br>
@@ -60,24 +60,29 @@ Here are some ideas to get you started:
 <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25px" height="25px"/>
-<img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="25px" height="25px"/>
 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25px" height="25px"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25px" height="25px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nginx.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" width="25px" height="25px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="25px" height="25px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="25px" height="25px"/>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="25px" height="25px"/> -->
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="25px" height="25px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="25px" height="25px"/> -->
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="25px" height="25px"/>
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25px" height="25px"/> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="25px" height="25px"/> -->
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="25px" height="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="25px" height="25px"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25px" height="25px"/>
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="25px" height="25px"/>
@@ -86,7 +91,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="25px" height="25px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="25px" height="25px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" width="25px" height="25px"/>  -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" width="25px" height="25px"/>
+<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" width="25px" height="25px"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" width="25px" height="25px"/> -->
 
 </p>
