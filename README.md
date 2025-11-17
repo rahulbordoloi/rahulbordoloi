@@ -20,7 +20,7 @@
 
 I'm a Vivid Pythonista :snake:, but C++ by :heart:. Linux Fanboy :penguin:. <br>
 Passionate about Converting Problem Statements into Efficient and Automated Solutions. 
-Currently working as a Senior Software Engineer at FinanceOps, Texas (Remote). Much Passionate about Contributing to the Open Source Community :octocat:.
+Currently working as a Software Engineer at [Morgan Stanley](https://www.morganstanley.com/). Much Passionate about Contributing to the Open Source Community :octocat:.
 <br>
 
 <!--[Linkedin](https://linkedin.com/in/rahulbordoloi) <br>
